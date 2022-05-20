@@ -1,0 +1,23 @@
+[
+        {
+          "title": "Marche à pied",
+          "distance": "6",
+          "duration": "0h59min",
+          "date": "18 mai 2022",
+          "image": ""
+        },
+        {
+          "title": "Vélo",
+          "distance": "10",
+          "duration": "1h38min",
+          "date": "15 mai 2022",
+          "image": ""
+        },
+        {
+          "title": "Marche à pied",
+          "distance": "2",
+          "duration": "0h26min",
+          "date": "12 mai 2022",
+          "image": ""
+        }
+]
